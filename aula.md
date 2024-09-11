@@ -9,7 +9,7 @@
 ## peças de uma linguagem 
 - comentario 
 - declaraçao de variaveis (const, let )
-- operadores (atribuiçao, concatenaçao, matematica, logicos)
+- operadores (atribuiçao, concatenaçao, matematicos, logicos)
 - tipos de dados (string, number, boolean)
 - estruturas de dados (function, object, array)
 - controle de fluxo (if/else)
@@ -27,7 +27,8 @@ number: 2, 1.4
 
 ## operados 
 operador de atribuiçao de valor = 
-operador de contatenaçao 
+operador de contatenaçao + 
+operadores de compararaçao: ==, !=, < >, <= >= 
 
 # estrutura de dados 
 
@@ -43,6 +44,7 @@ acesso a propriedades de objetos
 
 ## condicionais 
 switch
+if/else
 
 ## modulos em Node.js
 
