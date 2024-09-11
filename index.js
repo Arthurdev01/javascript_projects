@@ -25,3 +25,13 @@
 //function //arrow function 
 
 //const criarMeta = () =>{}
+
+   let metas = [ 
+         metas,
+         {
+               value: "caminhar 20 min",
+               checked: false
+
+         }
+   ]
+console.log (metas[1], value)
