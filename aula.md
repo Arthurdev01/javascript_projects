@@ -39,3 +39,7 @@ uma lista que contem qualquer tipo de dado
 atribuiçao e metodos 
 criaçao e manipulaçao de objetos 
 acesso a propriedades de objetos
+
+
+## condicionais 
+switch
