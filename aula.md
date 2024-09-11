@@ -1,3 +1,4 @@
+
 ## linguagem de programaçao
 
     Maneira de dar instruçao ao computador.
@@ -26,3 +27,15 @@ number: 2, 1.4
 
 ## operados 
 operador de atribuiçao de valor = 
+operador de contatenaçao 
+
+# estrutura de dados 
+
+### arrays 
+uma lista que contem qualquer tipo de dado
+
+### objetos 
+
+atribuiçao e metodos 
+criaçao e manipulaçao de objetos 
+acesso a propriedades de objetos
