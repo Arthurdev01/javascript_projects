@@ -18,3 +18,11 @@
 coletar os dados 
 processar os dados (manipular, alterar ...)
 apresentar os dados 
+
+
+## tipode de dados: 
+strings (textos) "" '' ` `
+number: 2, 1.4 
+
+## operados 
+operador de atribuiçao de valor = 
