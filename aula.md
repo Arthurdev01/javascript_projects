@@ -43,3 +43,12 @@ acesso a propriedades de objetos
 
 ## condicionais 
 switch
+
+## modulos em Node.js
+
+importasçao de modulos (require, commonJS)
+Biblioteca 'inquirer'para criar prompts interativos 
+
+## programaçao assincrona e promises:
+
+uso de funçoes assincronas (assync/await)
