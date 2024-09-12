@@ -35,7 +35,7 @@ spreed operator:...
 
 ### arrays 
 uma lista que contem qualquer tipo de dado
-metodos de array: push, [find, forEach, filter] : HOF (hiher order functions)
+metodos de array: push, [find, forEach, filter, map] : HOF (hiher order functions)
 
 ### objetos 
 
