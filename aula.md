@@ -52,6 +52,13 @@ if/else
 
 importasçao de modulos (require, commonJS)
 Biblioteca 'inquirer'para criar prompts interativos 
+FS (file system)
+
+## JSON 
+
+javascript object notation 
+JSON.parse() transforma de jSON para js 
+Json.stringfy() transforma de js para JSON 
 
 ## programaçao assincrona e promises:
 
